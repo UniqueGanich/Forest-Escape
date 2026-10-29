@@ -5,6 +5,6 @@
 > download link: https://ganych-entertainment.itch.io/forest-escape
 
 ## Special Thanks
-Thanks to Blockyn for some of the 3D models.\
+Thank you, Blockyn, for some 3D models and the idea for the game.\
 Thanks to MrBooGee for the idea for the game.\
 Thanks to SkRedGames for the music.
